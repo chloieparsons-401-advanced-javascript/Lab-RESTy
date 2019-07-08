@@ -38,4 +38,4 @@
 
 ## UML
 
-![React Capstone](assets/RESTy_UML.JPG)
+[RESTy](https://codesandbox.io/s/nameless-cache-f02ss)(./Assets/RESTY_UML.JPG)
