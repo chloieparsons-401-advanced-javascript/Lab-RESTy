@@ -38,4 +38,5 @@
 
 ## UML
 
-[RESTy](https://codesandbox.io/s/nameless-cache-f02ss)(./Assets/RESTY_UML.JPG)
+[RESTy](https://codesandbox.io/s/nameless-cache-f02ss)
+- Please go to `./Assets/RESTY_UML.JPG`
